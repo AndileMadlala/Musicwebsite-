@@ -1,0 +1,50 @@
+body {
+    border: 4px solid white;
+      background:-webkit-linear-gradient(DeepSkyBlue,blue);
+      background-repeat: no-repeat;
+        background-size: cover;
+      
+    
+  
+  }
+  .heading{
+    background-color: white;
+    text-shadow: 5px 4px 5px grey;
+      color:black;
+      text-align: center;
+  }
+  Add a black background color to the top navigation */
+  .topnav {
+    background-color: white;
+    overflow: hidden;
+    text-align: right;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #c43333;
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+    text-align: right;
+  }
+  
+  /* Add a color to the active/current link */
+  .topnav a.active {
+    
+    background-color: white;
+    color: rgb(175, 13, 13);
+    text-align: right;
+  }
+  .music {
+    font-size: larger;
+    color: red;
+}
